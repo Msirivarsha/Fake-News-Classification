@@ -6,3 +6,5 @@ This project aims to detect fake news using a machine learning model trained on 
 ## Datasets
 - **True News**: Contains verified news articles.
 - **Fake News**: Contains fabricated news articles.
+
+I have achieved 85% accuracy.
